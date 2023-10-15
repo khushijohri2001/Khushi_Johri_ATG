@@ -1,0 +1,30 @@
+
+
+  .img-gradient{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.60)),
+    url('https://s3-alpha-sig.figma.com/img/756e/302b/7d56a759ac56bc165f65c40094aba4e8?Expires=1698019200&Signature=h7~vLQzGtbpH9ZXXVnY43NupFAp8yATjKyi9k-sLNoZ9tVwVKEFLv~YDBmn0Fc8TH47OBFgMh-rcD--x8r9RKMDLPVnvwnzwmuL66gSekY0jIh5HXDtwzyAq7pDNZauoeD1qlkmlEHljjQlEgu0hIdCgIdp-b4XYyPQqd5kvkDwJOeoxJKa~noh6vSVFtncZfzoUgBHDHTQLk2lZhiakbq8hXyLn4rZw2XR14nfnqdcCWLTHL57I8Rc3Z-rLfV2zM6hWHFUKuClc196SHCU34wkdQChHGUXiOLCPs0lTL81s212gI~0mzLwa249yIJTII8qKVrUcTWBQt6c7JviN8g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+
+    height: 50vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  
+
+  @media screen and (min-width: 768px){
+    .long-margin{
+      margin: 0 10rem !important;
+      margin-bottom: 1rem !important;
+    }
+   
+  }
+
+
+ 
